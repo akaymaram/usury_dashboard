@@ -4,24 +4,24 @@ A visual dashboard, showing usury rates by State
 
 
 
-Links:
-csbs.org/50-state-survey-consumer-finance-laws
-paidnice.com/usury-laws-by-state
-upcounsel.com/lectl-state-interest-rates-and-usury-limits
-Federal Banking Regulator Finalizes Rule on State Usury Laws:
-congress.gov/crs-product/LSB10512
-The Political Economy of Financial Regulation: Evidence from U.S. State Usury Laws in the 19th Century
-Efraim Benmelech and Tobias J. Moskowitz
-NBER Working Paper No. 12851
-January 2007
-JEL No. G2,G38,N2,O16:
-nber.org/system/files/working_papers/w12851/w12851.pdf
-
-
-
-worldpopulationreview.com/state-rankings/usury-laws-by-state#sources
-cites upcounsel (link below) as source
-upcounsel.com/lectl-state-interest-rates-and-usury-limits
+Links:<br />
+csbs.org/50-state-survey-consumer-finance-laws<br />
+paidnice.com/usury-laws-by-state<br />
+upcounsel.com/lectl-state-interest-rates-and-usury-limits<br />
+Federal Banking Regulator Finalizes Rule on State Usury Laws:<br />
+congress.gov/crs-product/LSB10512<br />
+The Political Economy of Financial Regulation: Evidence from U.S. State Usury Laws in the 19th Century<br />
+Efraim Benmelech and Tobias J. Moskowitz<br />
+NBER Working Paper No. 12851<br />
+January 2007<br />
+JEL No. G2,G38,N2,O16:<br />
+nber.org/system/files/working_papers/w12851/w12851.pdf<br />
+<br />
+<br />
+<br />
+worldpopulationreview.com/state-rankings/usury-laws-by-state#sources<br />
+cites upcounsel (link below) as source<br />
+upcounsel.com/lectl-state-interest-rates-and-usury-limits<br />
 
 
 
