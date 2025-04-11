@@ -3,6 +3,12 @@
 A visual dashboard, showing usury rates by State
 
 
+Backlog:
+1. Update and add usury_dashboard.py to the repo
+2. Add the usury state data to the Data folder and add the Data folder to the repo
+3. Set up the streamlit hosting
+
+
 
 Links:<br />
 csbs.org/50-state-survey-consumer-finance-laws<br />
