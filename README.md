@@ -4,11 +4,7 @@ hosted @ https://usuryrates.streamlit.app
 
 
 Backlog:
-1. Add General Usury Limit column to the csv dataset
-2. Add Judgment Rate column to the csv dataset
-3. Add both datapoints to show on mouse hover over state
-
-
+1. Show General Usury Limit and Judgment Rate column on mouse hover over State on map
 
 Links:<br />
 csbs.org/50-state-survey-consumer-finance-laws<br />
