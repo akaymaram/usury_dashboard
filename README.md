@@ -1,12 +1,12 @@
 # usury_dashboard
 
-A visual dashboard, showing usury rates by State
+hosted @ https://usuryrates.streamlit.app
 
 
 Backlog:
-1. Update and add usury_dashboard.py to the repo
-2. Add the usury state data to the Data folder and add the Data folder to the repo
-3. Set up the streamlit hosting
+1. Add General Usury Limit column to the csv dataset
+2. Add Judgment Rate column to the csv dataset
+3. Add both datapoints to show on mouse hover over state
 
 
 
