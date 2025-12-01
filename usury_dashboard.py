@@ -219,6 +219,7 @@ def make_donut(input_response, input_text, input_color):
 # st.markdown('#### Total Population')
 selected_color_theme = "reds"
 choropleth = make_choropleth(df_selected_year, 'state_code', 'legal_interest_rate%', selected_color_theme)
+choropleth.update_coloraxes(showscale=False)
 st.plotly_chart(choropleth, use_container_width=True)
 	
 
