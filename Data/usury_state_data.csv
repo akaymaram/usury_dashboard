@@ -1,0 +1,52 @@
+states,state_code,id,year,legal_interest_rate%
+Alabama,AL,1,2025,6%
+Alaska,AK,2,2025,10.5%
+Arizona,AZ,4,2025,10%
+Arkansas,AR,5,2025,6%
+California,CA,6,2025,10%
+Colorado,CO,8,2025,8%
+Connecticut,CT,9,2025,8%
+Delaware,DE,10,2025,5%
+District of Columbia,DC,11,2025,6%
+Florida,FL,12,2025,12%
+Georgia,GA,13,2025,7%
+Hawaii,HI,15,2025,10%
+Idaho,ID,16,2025,12%
+Illinois,IL,17,2025,5%
+Indiana,IN,18,2025,10%
+Iowa,IA,19,2025,10%
+Kansas,KS,20,2025,10%
+Kentucky,KY,21,2025,8%
+Louisiana,LA,22,2025,5.5%
+Maine,ME,23,2025,6%
+Maryland,MD,24,2025,6%
+Massachusetts,MA,25,2025,6%
+Michigan,MI,26,2025,5%
+Minnesota,MN,27,2025,6%
+Mississippi,MS,28,2025,9%
+Missouri,MO,29,2025,9%
+Montana,MT,30,2025,10%
+Nebraska,NE,31,2025,6%
+Nevada,NV,32,2025,12%
+New Hampshire,NH,33,2025,10%
+New Jersey,NJ,34,2025,6%
+New Mexico,NM,35,2025,15%
+New York,NY,36,2025,9%
+North Carolina,NC,37,2025,8%
+North Dakota,ND,38,2025,6%
+Ohio,OH,39,2025,5%
+Oklahoma,OK,40,2025,6%
+Oregon,OR,41,2025,9%
+Pennsylvania,PA,42,2025,6%
+Rhode Island,RI,44,2025,12%
+South Carolina,SC,45,2025,8.75%
+South Dakota,SD,46,2025,15%
+Tennessee,TN,47,2025,10%
+Texas,TX,48,2025,6%
+Utah,UT,49,2025,10%
+Vermont,VT,50,2025,12%
+Virginia,VA,51,2025,8%
+Washington,WA,53,2025,12%
+West Virginia,WV,54,2025,6%
+Wisconsin,WI,55,2025,5%
+Wyoming,WY,56,2025,10%
