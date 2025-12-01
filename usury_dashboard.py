@@ -1,4 +1,3 @@
-!pip install plotly
 #######################
 # Import libraries
 import streamlit as st
