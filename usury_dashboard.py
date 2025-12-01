@@ -86,7 +86,8 @@ else:
 
 print("fed_rate:" , fed_rate)
 st.markdown("<h1 style='text-align: center;'>Usury Dashboard</h1>", unsafe_allow_html=True)
-#######################
+st.markdown("<h2 style='text-align: center;'>Legal Interest Rate Choropleth</h2>", unsafe_allow_html=True)
+######################
 # # Sidebar
 # with st.sidebar:
 # 	st.title('🏂 Usury Limit Dashboard')

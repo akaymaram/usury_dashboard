@@ -1,52 +1,52 @@
-states,state_code,id,year,legal_interest_rate%
-Alabama,AL,1,2025,6%
-Alaska,AK,2,2025,10.5%
-Arizona,AZ,4,2025,10%
-Arkansas,AR,5,2025,6%
-California,CA,6,2025,10%
-Colorado,CO,8,2025,8%
-Connecticut,CT,9,2025,8%
-Delaware,DE,10,2025,5%
-District of Columbia,DC,11,2025,6%
-Florida,FL,12,2025,12%
-Georgia,GA,13,2025,7%
-Hawaii,HI,15,2025,10%
-Idaho,ID,16,2025,12%
-Illinois,IL,17,2025,5%
-Indiana,IN,18,2025,10%
-Iowa,IA,19,2025,10%
-Kansas,KS,20,2025,10%
-Kentucky,KY,21,2025,8%
-Louisiana,LA,22,2025,5.5%
-Maine,ME,23,2025,6%
-Maryland,MD,24,2025,6%
-Massachusetts,MA,25,2025,6%
-Michigan,MI,26,2025,5%
-Minnesota,MN,27,2025,6%
-Mississippi,MS,28,2025,9%
-Missouri,MO,29,2025,9%
-Montana,MT,30,2025,10%
-Nebraska,NE,31,2025,6%
-Nevada,NV,32,2025,12%
-New Hampshire,NH,33,2025,10%
-New Jersey,NJ,34,2025,6%
-New Mexico,NM,35,2025,15%
-New York,NY,36,2025,9%
-North Carolina,NC,37,2025,8%
-North Dakota,ND,38,2025,6%
-Ohio,OH,39,2025,5%
-Oklahoma,OK,40,2025,6%
-Oregon,OR,41,2025,9%
-Pennsylvania,PA,42,2025,6%
-Rhode Island,RI,44,2025,12%
-South Carolina,SC,45,2025,8.75%
-South Dakota,SD,46,2025,15%
-Tennessee,TN,47,2025,10%
-Texas,TX,48,2025,6%
-Utah,UT,49,2025,10%
-Vermont,VT,50,2025,12%
-Virginia,VA,51,2025,8%
-Washington,WA,53,2025,12%
-West Virginia,WV,54,2025,6%
-Wisconsin,WI,55,2025,5%
-Wyoming,WY,56,2025,10%
+states,state_code,id,year,legal_interest_rate%, general_usury_limit, judgment_rate
+Alabama,AL,1,2025,6%,8%,12%
+Alaska,AK,2,2025,10.5%,5% above Federal Reserve rate,Varies
+Arizona,AZ,4,2025,10%,10%,10%
+Arkansas,AR,5,2025,6%,17% for consumers and 5% above Federal Reserve rate for non-consumers,10% or agreed rate (whichever is greater)
+California,CA,6,2025,10%,10% for consumers and 5% + Federal Reserve rate for non-consumers,10%
+Colorado,CO,8,2025,8%,45%,8%
+Connecticut,CT,9,2025,8%,12%,10%
+Delaware,DE,10,2025,5%,5% over Federal Reserve rate,5% over Federal Reserve rate
+District of Columbia,DC,11,2025,6%,24%+,6%
+Florida,FL,12,2025,12%,18%,12%
+Georgia,GA,13,2025,7%,16% for loans under $3000 and 5% per month for loans over $3000,7%
+Hawaii,HI,15,2025,10%,12% for consumer transactions,10%
+Idaho,ID,16,2025,12%,12%,5% above U.S. Treasury securities rate
+Illinois,IL,17,2025,5%,9%,9%
+Indiana,IN,18,2025,10%,No limit currently,10%
+Iowa,IA,19,2025,10%,12% for consumer transactions,10%
+Kansas,KS,20,2025,10%,15%,4% above federal discount rate
+Kentucky,KY,21,2025,8%,4% above Federal Reserve rate or 19% whichever is less,12% compounded yearly
+Louisiana,LA,22,2025,5.5%,12% for individuals no limit for corporations,Variable between 7-14%
+Maine,ME,23,2025,6%,Variable,15% for judgments below $30000 variable for others
+Maryland,MD,24,2025,6%,24%,10%
+Massachusetts,MA,25,2025,6%,20%,12% or 18%
+Michigan,MI,26,2025,5%,7%,1% above five-year T-note rate
+Minnesota,MN,27,2025,6%,8%,Secondary market yield for one-year T-Bills
+Mississippi,MS,28,2025,9%,10% or 5% above federal reserve rate,9% or agreed rate
+Missouri,MO,29,2025,9%,No limit for corporations,9%
+Montana,MT,30,2025,10%,6% above New York City banks' prime rate,10%
+Nebraska,NE,31,2025,6%,16%,1% above bond yield equivalent to T-bill auction price
+Nevada,NV,32,2025,12%,No limit,12%
+New Hampshire,NH,33,2025,10%,No limit,10%
+New Jersey,NJ,34,2025,6%,30% for individuals and 50% for corporations,6%
+New Mexico,NM,35,2025,15%,15%,Varies set by court
+New York,NY,36,2025,9%,16%,9%
+North Carolina,NC,37,2025,8%,8% or variable rate up to 16%,8%
+North Dakota,ND,38,2025,6%,5.5% above six-month treasury bill interest rate,Contract rate or 12% whichever is less
+Ohio,OH,39,2025,5%,25% criminal usury cap,Variable
+Oklahoma,OK,40,2025,6%,10% for consumer loans 45% for non-consumer loans,T-Bill rate plus 4%
+Oregon,OR,41,2025,9%,12% or 5% above discount rate for loans below $50000, 9% or contract rate whichever is higher
+Pennsylvania,PA,42,2025,6%,6% for most loans below $50000 25% criminal usury cap,6%
+Rhode Island,RI,44,2025,12%,21% or T-Bill rate plus 9%,12%
+South Carolina,SC,45,2025,8.75%,No limit for non-consumer transactions,14%
+South Dakota,SD,46,2025,15%,No limit,12%
+Tennessee,TN,47,2025,10%,24% or four points above average prime loan rate whichever is less,10%
+Texas,TX,48,2025,6%,Varies by loan type,18% or contract rate whichever is less
+Utah,UT,49,2025,10%,Variable for consumer transactions, 12% or agreed rate
+Vermont,VT,50,2025,12%, 12% general 18% on first $500 of retail installment contracts 15% above $500,12%
+Virginia,VA,51,2025,8%,No limit for corporations and business loans over $5000,8% or contract rate
+Washington,WA,53,2025,12%,12% or four points above average T-Bill rate for past 26 weeks whichever is greater,12% or contract rate whichever is higher
+West Virginia,WV,54,2025,6%,8% contractual rate variable for real estate and other loans,6%
+Wisconsin,WI,55,2025,5%,No limit for corporations,12% except for mortgage foreclosures
+Wyoming,WY,56,2025,10%,Variable,10%
