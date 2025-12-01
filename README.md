@@ -4,7 +4,7 @@ hosted @ https://usuryrates.streamlit.app
 
 
 Backlog:
-1. Show General Usury Limit and Judgment Rate column on mouse hover over State on map
+1. Show General Usury Limit and Judgment Rate on mouse hover
 
 Links:<br />
 csbs.org/50-state-survey-consumer-finance-laws<br />
