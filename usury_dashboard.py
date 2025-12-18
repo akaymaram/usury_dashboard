@@ -86,7 +86,7 @@ else:
 
 print("fed_rate:" , fed_rate)
 st.markdown("<h1 style='text-align: center;'>Usury Dashboard</h1>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align: center;'>Legal Interest Rate Choropleth</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>States' Legal Interest Rate Choropleth Map</h2>", unsafe_allow_html=True)
 ######################
 # # Sidebar
 # with st.sidebar:
@@ -242,6 +242,7 @@ st.plotly_chart(choropleth, use_container_width=True)
 # 						max_value=max(df_selected_year_sorted.population),
 # 					 )}
 # 				 )
+st.write(f'''- Source: https://www.paidnice.com/usury-laws-by-state''')
 st.write(f'''- Current Federal Reserve Rate = {fed_rate}%.''')
 # with st.expander('About', expanded=True):
 # 	st.write(f'''
